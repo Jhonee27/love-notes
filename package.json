@@ -1,0 +1,8 @@
+{
+  "name": "love-notes",
+  "version": "1.0.0",
+  "description": "Una web para subir fotos de amor",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
